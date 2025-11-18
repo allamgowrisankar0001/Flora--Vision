@@ -1,0 +1,29 @@
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: none;
+  text-align: unset;
+}
+
+.navbar-menu a {
+  font-family: 'Indie Flower', cursive;
+}
+.live-demo{
+  font-family: 'Indie Flower', cursive;
+
+}
+.card-curve{
+  background-color: rgba(255, 255, 255, 0.06);
+}
+.card-curve1{
+  background-color: rgba(255, 255, 255, 0.06);
+  box-shadow: 0px 30px 60px rgba(0, 0, 0, 0.45);
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background-color: #1B2316;
+  color: #ffffff;
+  margin: 0;
+}

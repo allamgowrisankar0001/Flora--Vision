@@ -3,7 +3,7 @@
 Flora Vision is a curated single-page experience for a premium indoor plant boutique. The site combines evocative storytelling, modern UI patterns, and high-fidelity imagery to guide visitors from inspiration to purchase in a single scroll.
 
 ## Live Deployment
-- Production: [https://flora-vision-tawny.vercel.app/](https://flora-vision-tawny.vercel.app/)
+- Production: [https://flora-vision-zeta.vercel.app/](https://flora-vision-zeta.vercel.app/)
 
 ## Key Capabilities
 - **Immersive hero** featuring layered glassmorphism, dual CTAs, and a dynamic testimonial capsule.

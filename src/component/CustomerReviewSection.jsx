@@ -139,7 +139,7 @@ const CustomerReviewSection = () => (
                             <stop offset="1" />
                         </linearGradient>
                     </defs>
-                </svg>
+                </svg>    
                 <div className="relative px-10 pt-10 pb-12 text-left flex-1 flex flex-col">
                     <div className="absolute right-10 top-6 w-[140px] h-[140px] bg-lime-300/20 blur-[70px] rounded-full pointer-events-none" />
                     <div className="flex items-center gap-6">

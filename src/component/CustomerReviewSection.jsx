@@ -1,3 +1,7 @@
+import comment1 from '../assets/comment1.png';
+import comment2 from '../assets/comment2.png';
+import comment3 from '../assets/comment3.png';
+
 const StarStrip = ({ className = '' }) => (
     <svg
         className={className}
@@ -74,7 +78,7 @@ const CustomerReviewSection = () => (
                     <div className="absolute right-10 top-6 w-[140px] h-[140px] bg-lime-300/20 blur-[70px] rounded-full pointer-events-none" />
                     <div className="flex items-center gap-6">
                         <div className="w-[86px] h-[86px] rounded-full overflow-hidden border border-white/30">
-                            <img src="https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=200&q=80" alt="Shelly Russel" className="object-cover w-full h-full" />
+                                <img src={comment1} alt="Shelly Russel" className="object-cover w-full h-full" />
                         </div>
                         <div>
                             <p className="text-white text-[28px] font-[600] font-inter">Shelly Russel</p>
@@ -107,7 +111,7 @@ const CustomerReviewSection = () => (
                     <div className="absolute right-10 top-6 w-[140px] h-[140px] bg-lime-300/20 blur-[70px] rounded-full pointer-events-none" />
                     <div className="flex items-center gap-6">
                         <div className="w-[86px] h-[86px] rounded-full overflow-hidden border border-white/30">
-                            <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80" alt="Lula Rolfson" className="object-cover w-full h-full" />
+                            <img src={comment2} alt="Lula Rolfson" className="object-cover w-full h-full" />
                         </div>
                         <div>
                             <p className="text-white text-[28px] font-[600] font-inter">Lula Rolfson</p>
@@ -140,7 +144,7 @@ const CustomerReviewSection = () => (
                     <div className="absolute right-10 top-6 w-[140px] h-[140px] bg-lime-300/20 blur-[70px] rounded-full pointer-events-none" />
                     <div className="flex items-center gap-6">
                         <div className="w-[86px] h-[86px] rounded-full overflow-hidden border border-white/30">
-                            <img src="https://images.unsplash.com/photo-1450297350677-623de575f31c?auto=format&fit=crop&w=200&q=80" alt="Carol Huels" className="object-cover w-full h-full" />
+                            <img src={comment3} alt="Carol Huels" className="object-cover w-full h-full" />
                         </div>
                         <div>
                             <p className="text-white text-[28px] font-[600] font-inter">Carol Huels</p>
